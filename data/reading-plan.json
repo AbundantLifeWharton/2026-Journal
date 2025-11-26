@@ -1,0 +1,26 @@
+[
+  {
+    "weekNumber": 1,
+    "weekLabel": "Week 1 \u2014 January 5\u20139",
+    "days": [
+      {
+        "id": "w1d1",
+        "dayOfWeek": "Monday",
+        "dateLabel": "January 5",
+        "readings": "Gen 1\u20132; Ps 19; Mark 1",
+        "summary": "God creates the world, reveals His glory in creation, and Jesus begins His public ministry.",
+        "keyVerseRef": "Psalm 19:1 (NKJV)",
+        "keyVerseText": "The heavens declare the glory of God; and the firmament shows His handiwork."
+      },
+      {
+        "id": "w1d2",
+        "dayOfWeek": "Tuesday",
+        "dateLabel": "January 6",
+        "readings": "Gen 3\u20135; Mark 2",
+        "summary": "Sin enters the world, yet God hints at a Redeemer; Jesus forgives, heals, and calls sinners.",
+        "keyVerseRef": "Genesis 3:15 (NKJV)",
+        "keyVerseText": "And I will put enmity between you and the woman, and between your seed and her Seed; He shall bruise your head, and you shall bruise His heel."
+      }
+    ]
+  }
+]

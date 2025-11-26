@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>A One Year Journey Through Scripture</title>
+  <link rel="manifest" href="manifest.webmanifest">
+  <meta name="theme-color" content="#234f32" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="app-header">
+    <h1>A One Year Journey Through Scripture</h1>
+    <p class="subtitle">A Daily Walk Through God's Word</p>
+  </header>
+
+  <main id="app">
+    <section id="home-view" class="view active">
+      <div class="card">
+        <h2>Today&apos;s Reading</h2>
+        <div id="today-info"></div>
+        <button id="open-today" class="btn-primary">Open Today&apos;s Journal</button>
+      </div>
+
+      <div class="card">
+        <h2>My Progress</h2>
+        <div class="progress-bar">
+          <div id="progress-fill" class="progress-fill"></div>
+        </div>
+        <p id="progress-text" class="progress-text"></p>
+      </div>
+
+      <div class="card">
+        <h2>Navigate</h2>
+        <button id="view-weeks" class="btn-secondary">View All Weeks</button>
+      </div>
+    </section>
+
+    <section id="weeks-view" class="view">
+      <button class="btn-back" data-back="home-view">&larr; Back</button>
+      <h2>Select a Week</h2>
+      <div id="weeks-list"></div>
+    </section>
+
+    <section id="days-view" class="view">
+      <button class="btn-back" data-back="home-view">&larr; Back</button>
+      <h2 id="days-week-title"></h2>
+      <div id="days-list"></div>
+    </section>
+
+    <section id="day-detail-view" class="view">
+      <button class="btn-back" data-back="weeks-view">&larr; Back</button>
+      <h2 id="day-title"></h2>
+      <p id="day-readings" class="muted"></p>
+
+      <div class="card">
+        <h3>Summary</h3>
+        <p id="day-summary"></p>
+      </div>
+
+      <div class="card">
+        <h3>Key Verse <span id="day-keyref"></span></h3>
+        <p id="day-keytext" class="key-verse"></p>
+      </div>
+
+      <div class="card">
+        <h3>Journal</h3>
+        <label class="field-label">What stood out to me?</label>
+        <textarea id="journal-stoodout"></textarea>
+
+        <label class="field-label">How did I see Jesus in the Scriptures?</label>
+        <textarea id="journal-sawjesus"></textarea>
+
+        <label class="field-label">What thoughts or questions do I want to discuss?</label>
+        <textarea id="journal-discussion"></textarea>
+
+        <label class="checkbox-label">
+          <input type="checkbox" id="journal-completed" />
+          Mark this day as completed
+        </label>
+
+        <button id="save-journal" class="btn-primary">Save Journal</button>
+        <p id="save-status" class="save-status"></p>
+      </div>
+    </section>
+  </main>
+
+  <footer class="app-footer">
+    <p>Abundant Life Wharton &middot; Psalm 119:105</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
