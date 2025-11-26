@@ -100,5 +100,108 @@
         "keyVerseText": "And the LORD appeared to him the same night and said, “I am the God of your father Abraham; do not fear, for I am with you. I will bless you and multiply your descendants for My servant Abraham’s sake.”"
       }
     ]
-  }
-]
+  },
+{
+  "weekNumber": 3,
+  "weekLabel": "Week 3 — January 19–23",
+  "days": [
+    {
+      "id": "w3d1",
+      "dayOfWeek": "Monday",
+      "dateLabel": "January 19",
+      "readings": "Gen 28–29; Mark 11",
+      "summary": "Jacob encounters God at Bethel and begins his years of service with Laban, while Jesus enters Jerusalem as the promised Messiah and teaches about true faith and fruitfulness.",
+      "keyVerseRef": "Genesis 28:15 (NKJV)",
+      "keyVerseText": "Behold, I am with you and will keep you wherever you go, and will bring you back to this land; for I will not leave you until I have done what I have spoken to you."
+    },
+    {
+      "id": "w3d2",
+      "dayOfWeek": "Tuesday",
+      "dateLabel": "January 20",
+      "readings": "Gen 30–31; Ps 11; Mark 12",
+      "summary": "God prospers Jacob despite tension and deceit, showing His covenant faithfulness, while Jesus teaches the greatest commandments—love God with all your heart, and love your neighbor as yourself.",
+      "keyVerseRef": "Mark 12:30–31 (NKJV)",
+      "keyVerseText": "‘And you shall love the LORD your God with all your heart, with all your soul, with all your mind, and with all your strength.’ This is the first commandment. And the second, like it, is this: ‘You shall love your neighbor as yourself.’ There is no other commandment greater than these."
+    },
+    {
+      "id": "w3d3",
+      "dayOfWeek": "Wednesday",
+      "dateLabel": "January 21",
+      "readings": "Gen 32–34; Ps 145; Mark 13",
+      "summary": "Jacob wrestles with God and receives a new name—Israel. Reconciliation with Esau displays grace triumphing over fear, and Jesus speaks of the end times, calling His people to watch and endure.",
+      "keyVerseRef": "Genesis 32:28 (NKJV)",
+      "keyVerseText": "And He said, “Your name shall no longer be called Jacob, but Israel; for you have struggled with God and with men, and have prevailed.”"
+    },
+    {
+      "id": "w3d4",
+      "dayOfWeek": "Thursday",
+      "dateLabel": "January 22",
+      "readings": "Gen 35–37; Ps 12; Mark 14",
+      "summary": "God reaffirms His covenant with Jacob; Joseph is betrayed by his brothers yet remains central to God’s plan, while Jesus prepares for the cross—the ultimate betrayal that will bring salvation.",
+      "keyVerseRef": "Genesis 35:11 (NKJV)",
+      "keyVerseText": "Also God said to him: “I am God Almighty. Be fruitful and multiply; a nation and a company of nations shall proceed from you, and kings shall come from your body.”"
+    },
+    {
+      "id": "w3d5",
+      "dayOfWeek": "Friday",
+      "dateLabel": "January 23",
+      "readings": "Gen 38–40; Mark 15",
+      "summary": "God works through broken people as Judah’s line moves toward Messiah, and Joseph rises through suffering to a place of influence—pointing to Christ, the innocent One condemned yet victorious.",
+      "keyVerseRef": "Mark 15:39 (NKJV)",
+      "keyVerseText": "So when the centurion, who stood opposite Him, saw that He cried out like this and breathed His last, he said, “Truly this Man was the Son of God!”"
+    }
+  ]
+},
+{
+  "weekNumber": 4,
+  "weekLabel": "Week 4 — January 26–30",
+  "days": [
+    {
+      "id": "w4d1",
+      "dayOfWeek": "Monday",
+      "dateLabel": "January 26",
+      "readings": "Gen 41–42; Mark 16",
+      "summary": "Joseph interprets Pharaoh’s dreams and rises to power, saving many lives. His brothers come seeking grain, beginning a powerful story of grace and reconciliation. Christ is risen—our salvation and hope.",
+      "keyVerseRef": "Mark 16:6 (NKJV)",
+      "keyVerseText": "But he said to them, “Do not be alarmed. You seek Jesus of Nazareth, who was crucified. He is risen! He is not here.”"
+    },
+    {
+      "id": "w4d2",
+      "dayOfWeek": "Tuesday",
+      "dateLabel": "January 27",
+      "readings": "Gen 43–44; Ps 24; Gal 1",
+      "summary": "Joseph tests his brothers and reveals the transformation of Judah, while Psalm 24 declares God’s glory and Paul defends the true gospel—Christ’s work alone saves.",
+      "keyVerseRef": "Galatians 1:10 (NKJV)",
+      "keyVerseText": "For do I now persuade men, or God? Or do I seek to please men? For if I still pleased men, I would not be a bondservant of Christ."
+    },
+    {
+      "id": "w4d3",
+      "dayOfWeek": "Wednesday",
+      "dateLabel": "January 28",
+      "readings": "Gen 45–46; Ps 108; Gal 2",
+      "summary": "Joseph reveals himself and extends forgiveness, restoring what was broken for God’s glory. Israel moves to Egypt in faith. Paul confronts hypocrisy, affirming justification by faith alone.",
+      "keyVerseRef": "Genesis 45:5 (NKJV)",
+      "keyVerseText": "But now, do not therefore be grieved or angry with yourselves because you sold me here; for God sent me before you to preserve life."
+    },
+    {
+      "id": "w4d4",
+      "dayOfWeek": "Thursday",
+      "dateLabel": "January 29",
+      "readings": "Gen 47–48; Ps 25; Gal 3",
+      "summary": "Israel blesses Joseph’s sons by faith, giving Ephraim greater honor. God’s covenant promise continues through generations. Paul teaches that righteousness comes through faith—not law.",
+      "keyVerseRef": "Galatians 3:29 (NKJV)",
+      "keyVerseText": "And if you are Christ’s, then you are Abraham’s seed, and heirs according to the promise."
+    },
+    {
+      "id": "w4d5",
+      "dayOfWeek": "Friday",
+      "dateLabel": "January 30",
+      "readings": "Gen 49–50; Gal 4",
+      "summary": "Jacob blesses his sons, prophesying kingship through Judah and pointing to the Messiah. Joseph’s death points forward to deliverance yet to come. In Christ we are adopted as sons and heirs.",
+      "keyVerseRef": "Galatians 4:7 (NKJV)",
+      "keyVerseText": "Therefore you are no longer a slave but a son, and if a son, then an heir of God through Christ."
+    }
+  ]
+}
+
+
