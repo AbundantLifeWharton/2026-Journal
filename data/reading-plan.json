@@ -202,6 +202,108 @@
       "keyVerseText": "Therefore you are no longer a slave but a son, and if a son, then an heir of God through Christ."
     }
   ]
+},
+{
+  "weekNumber": 5,
+  "weekLabel": "Week 5 — February 2–6",
+  "days": [
+    {
+      "id": "w5d1",
+      "dayOfWeek": "Monday",
+      "dateLabel": "February 2",
+      "readings": "Ex 1–3; Gal 5",
+      "summary": "Israel suffers under bondage, but God remembers His covenant. Moses is called through the burning bush to deliver His people. In Galatians we are called to freedom through the Spirit, not works of the flesh.",
+      "keyVerseRef": "Exodus 3:14 (NKJV)",
+      "keyVerseText": "And God said to Moses, “I AM WHO I AM.” And He said, “Thus you shall say to the children of Israel, ‘I AM has sent me to you.’ ”"
+    },
+    {
+      "id": "w5d2",
+      "dayOfWeek": "Tuesday",
+      "dateLabel": "February 3",
+      "readings": "Ex 4–6; Gal 6",
+      "summary": "Moses returns to Egypt in obedience, but Pharaoh resists. God reveals His name—Yahweh—as the One who keeps covenant. In Galatians we reap what we sow and bear one another’s burdens.",
+      "keyVerseRef": "Galatians 6:9 (NKJV)",
+      "keyVerseText": "And let us not grow weary while doing good, for in due season we shall reap if we do not lose heart."
+    },
+    {
+      "id": "w5d3",
+      "dayOfWeek": "Wednesday",
+      "dateLabel": "February 4",
+      "readings": "Ex 7–9; Ps 105; Eph 1",
+      "summary": "God sends plagues demonstrating His power over Egypt. Psalm 105 recalls His faithful works, and Ephesians declares believers chosen in Christ from before the foundation of the world.",
+      "keyVerseRef": "Ephesians 1:7 (NKJV)",
+      "keyVerseText": "In Him we have redemption through His blood, the forgiveness of sins, according to the riches of His grace."
+    },
+    {
+      "id": "w5d4",
+      "dayOfWeek": "Thursday",
+      "dateLabel": "February 5",
+      "readings": "Ex 10–12; Eph 2",
+      "summary": "The Passover reveals salvation through the blood of the lamb—pointing to Christ. God delivers His people by mighty power. We are saved by grace through faith, not works.",
+      "keyVerseRef": "Ephesians 2:8–9 (NKJV)",
+      "keyVerseText": "For by grace you have been saved through faith, and that not of yourselves; it is the gift of God, not of works, lest anyone should boast."
+    },
+    {
+      "id": "w5d5",
+      "dayOfWeek": "Friday",
+      "dateLabel": "February 6",
+      "readings": "Ex 13–15; Ps 114; Eph 3",
+      "summary": "Israel crosses the Red Sea and God defeats the enemy. Miriam sings praise. Psalm 114 remembers the great deliverance, while Ephesians reveals the mystery of salvation for all nations.",
+      "keyVerseRef": "Exodus 14:14 (NKJV)",
+      "keyVerseText": "The LORD will fight for you, and you shall hold your peace."
+    }
+  ]
+},
+{
+  "weekNumber": 6,
+  "weekLabel": "Week 6 — February 9–13",
+  "days": [
+    {
+      "id": "w6d1",
+      "dayOfWeek": "Monday",
+      "dateLabel": "February 9",
+      "readings": "Ex 16–18; Eph 4",
+      "summary": "God provides manna in the wilderness and water from the rock, teaching His people dependence and obedience. In Ephesians we are called to unity, maturity, and love.",
+      "keyVerseRef": "Exodus 16:4 (NKJV)",
+      "keyVerseText": "Then the LORD said to Moses, “Behold, I will rain bread from heaven for you. And the people shall go out and gather a certain quota every day.”"
+    },
+    {
+      "id": "w6d2",
+      "dayOfWeek": "Tuesday",
+      "dateLabel": "February 10",
+      "readings": "Ex 19–21; Ps 33; Eph 5",
+      "summary": "God gives the law at Sinai, declaring Israel His treasured possession. Psalm 33 celebrates His power and faithfulness, while Ephesians calls believers to walk in love and purity.",
+      "keyVerseRef": "Exodus 19:5 (NKJV)",
+      "keyVerseText": "Now therefore, if you will indeed obey My voice and keep My covenant, then you shall be a special treasure to Me above all people."
+    },
+    {
+      "id": "w6d3",
+      "dayOfWeek": "Wednesday",
+      "dateLabel": "February 11",
+      "readings": "Ex 22–24; Ps 109; Eph 6",
+      "summary": "God establishes justice and covenant law, and the people pledge obedience. Psalm 109 cries for righteous judgment. In Ephesians we take up the armor of God for victory in spiritual warfare.",
+      "keyVerseRef": "Ephesians 6:11 (NKJV)",
+      "keyVerseText": "Put on the whole armor of God, that you may be able to stand against the wiles of the devil."
+    },
+    {
+      "id": "w6d4",
+      "dayOfWeek": "Thursday",
+      "dateLabel": "February 12",
+      "readings": "Ex 25–27; Ps 90; Phil 1",
+      "summary": "God gives instructions for the tabernacle—where He will dwell among His people. Psalm 90 contrasts human frailty with God’s eternal strength. Philippians rejoices even in hardship.",
+      "keyVerseRef": "Philippians 1:6 (NKJV)",
+      "keyVerseText": "Being confident of this very thing, that He who has begun a good work in you will complete it until the day of Jesus Christ."
+    },
+    {
+      "id": "w6d5",
+      "dayOfWeek": "Friday",
+      "dateLabel": "February 13",
+      "readings": "Ex 28–31; Phil 2",
+      "summary": "God sets apart priests for holy service and establishes Sabbath rest. Christ is our High Priest and humble Servant. Philippians calls believers to have the mind of Christ.",
+      "keyVerseRef": "Philippians 2:5 (NKJV)",
+      "keyVerseText": "Let this mind be in you which was also in Christ Jesus."
+    }
+  ]
 }
 ]
 
