@@ -1,4 +1,4 @@
-const CACHE_NAME = "scripture-journey-v1";
+const CACHE_NAME = "scripture-journey-v2";
 const ASSETS = [
   "./",
   "./index.html",
