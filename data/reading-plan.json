@@ -1,14 +1,14 @@
 [
   {
     "weekNumber": 1,
-    "weekLabel": "Week 1 \u2014 January 5\u20139",
+    "weekLabel": "Week 1 — January 5–9",
     "days": [
       {
         "id": "w1d1",
         "dayOfWeek": "Monday",
         "dateLabel": "January 5",
-        "readings": "Gen 1\u20132; Ps 19; Mark 1",
-        "summary": "God creates the world, reveals His glory in creation, and Jesus begins His public ministry.",
+        "readings": "Gen 1–2; Ps 19; Mark 1",
+        "summary": "God creates the heavens and the earth, crowns humans with His image, reveals His glory in creation, and Jesus begins His public ministry calling people to follow Him.",
         "keyVerseRef": "Psalm 19:1 (NKJV)",
         "keyVerseText": "The heavens declare the glory of God; and the firmament shows His handiwork."
       },
@@ -16,10 +16,88 @@
         "id": "w1d2",
         "dayOfWeek": "Tuesday",
         "dateLabel": "January 6",
-        "readings": "Gen 3\u20135; Mark 2",
-        "summary": "Sin enters the world, yet God hints at a Redeemer; Jesus forgives, heals, and calls sinners.",
+        "readings": "Gen 3–5; Mark 2",
+        "summary": "Sin enters the world, but God promises a coming Deliverer; even as death spreads, God preserves a line of faith, and Jesus forgives, heals, and calls sinners to Himself.",
         "keyVerseRef": "Genesis 3:15 (NKJV)",
         "keyVerseText": "And I will put enmity between you and the woman, and between your seed and her Seed; He shall bruise your head, and you shall bruise His heel."
+      },
+      {
+        "id": "w1d3",
+        "dayOfWeek": "Wednesday",
+        "dateLabel": "January 7",
+        "readings": "Gen 6–8; Ps 104; Mark 3",
+        "summary": "Human wickedness fills the earth, yet Noah finds grace; God judges through the flood and restores creation, showing His power and faithfulness, while Jesus confronts evil and calls a new family of faith.",
+        "keyVerseRef": "Genesis 6:8 (NKJV)",
+        "keyVerseText": "But Noah found grace in the eyes of the LORD."
+      },
+      {
+        "id": "w1d4",
+        "dayOfWeek": "Thursday",
+        "dateLabel": "January 8",
+        "readings": "Gen 9–11; Mark 4",
+        "summary": "God makes covenant with Noah, promises never again to destroy the earth with a flood, and scatters proud humanity at Babel, while Jesus teaches in parables about the kingdom of God growing like seed.",
+        "keyVerseRef": "Genesis 9:13 (NKJV)",
+        "keyVerseText": "I set My rainbow in the cloud, and it shall be for the sign of the covenant between Me and the earth."
+      },
+      {
+        "id": "w1d5",
+        "dayOfWeek": "Friday",
+        "dateLabel": "January 9",
+        "readings": "Gen 12–15; Ps 148; Mark 5",
+        "summary": "God calls Abram, makes covenant to bless all nations through his offspring, counts his faith as righteousness, and we see Jesus’ authority to free the bound, heal the sick, and raise the dead.",
+        "keyVerseRef": "Genesis 12:2 (NKJV)",
+        "keyVerseText": "I will make you a great nation; I will bless you and make your name great; and you shall be a blessing."
+      }
+    ]
+  },
+  {
+    "weekNumber": 2,
+    "weekLabel": "Week 2 — January 12–16",
+    "days": [
+      {
+        "id": "w2d1",
+        "dayOfWeek": "Monday",
+        "dateLabel": "January 12",
+        "readings": "Gen 16–18; Mark 6",
+        "summary": "Abram and Sarai try to ‘help’ God’s promise through Hagar, yet the Lord remains faithful and reaffirms His covenant, while Jesus feeds the multitudes and walks on water, revealing God’s compassion and power.",
+        "keyVerseRef": "Genesis 18:14 (NKJV)",
+        "keyVerseText": "Is anything too hard for the LORD? At the appointed time I will return to you, according to the time of life, and Sarah shall have a son."
+      },
+      {
+        "id": "w2d2",
+        "dayOfWeek": "Tuesday",
+        "dateLabel": "January 13",
+        "readings": "Gen 19–20; Ps 1; Mark 7",
+        "summary": "God judges the wickedness of Sodom yet rescues Lot, shows mercy even amid failure, and we are reminded that the blessed life delights in God’s law, while Jesus confronts empty traditions and cleanses hearts.",
+        "keyVerseRef": "Psalm 1:2 (NKJV)",
+        "keyVerseText": "But his delight is in the law of the LORD, and in His law he meditates day and night."
+      },
+      {
+        "id": "w2d3",
+        "dayOfWeek": "Wednesday",
+        "dateLabel": "January 14",
+        "readings": "Gen 21–23; Ps 107; Mark 8",
+        "summary": "God keeps His promise as Isaac is born; Abraham’s faith is tested on the mountain, pointing to a greater sacrifice to come, while Jesus calls His followers to deny themselves and take up their cross.",
+        "keyVerseRef": "Genesis 22:8 (NKJV)",
+        "keyVerseText": "And Abraham said, “My son, God will provide for Himself the lamb for a burnt offering.” So the two of them went together."
+      },
+      {
+        "id": "w2d4",
+        "dayOfWeek": "Thursday",
+        "dateLabel": "January 15",
+        "readings": "Gen 24–25; Ps 4; Mark 9",
+        "summary": "God providentially leads in Isaac’s marriage and the next generation, while rival nations are pictured in Jacob and Esau, and Jesus is transfigured in glory and teaches about true greatness and faith.",
+        "keyVerseRef": "Genesis 24:27 (NKJV)",
+        "keyVerseText": "Blessed be the LORD God of my master Abraham, who has not forsaken His mercy and His truth toward my master. As for me, being on the way, the LORD led me to the house of my master’s brethren."
+      },
+      {
+        "id": "w2d5",
+        "dayOfWeek": "Friday",
+        "dateLabel": "January 16",
+        "readings": "Gen 26–27; Mark 10",
+        "summary": "God reaffirms His covenant to Isaac, protects him, and works even through family conflict and deceit, while Jesus teaches about humble, childlike faith and the cost of following Him above riches.",
+        "keyVerseRef": "Genesis 26:24 (NKJV)",
+        "keyVerseText": "And the LORD appeared to him the same night and said, “I am the God of your father Abraham; do not fear, for I am with you. I will bless you and multiply your descendants for My servant Abraham’s sake.”"
       }
     ]
   }
