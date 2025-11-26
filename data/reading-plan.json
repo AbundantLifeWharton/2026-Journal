@@ -406,6 +406,210 @@
       "keyVerseText": "But now He has obtained a more excellent ministry, inasmuch as He is also Mediator of a better covenant, which was established on better promises."
     }
   ]
+},
+{
+  "weekNumber": 9,
+  "weekLabel": "Week 9 — March 2–6",
+  "days": [
+    {
+      "id": "w9d1",
+      "dayOfWeek": "Monday",
+      "dateLabel": "March 2",
+      "readings": "Lev 24–25; Ps 81; Heb 9",
+      "summary": "God calls His people to holiness, justice, and Sabbath rest, including the Year of Jubilee that restores what was lost. Psalm 81 urges God’s people to listen and trust Him. Hebrews 9 shows Jesus as our great High Priest whose once-for-all sacrifice brings eternal redemption.",
+      "keyVerseRef": "Hebrews 9:12 (NKJV)",
+      "keyVerseText": "Not with the blood of goats and calves, but with His own blood He entered the Most Holy Place once for all, having obtained eternal redemption."
+    },
+    {
+      "id": "w9d2",
+      "dayOfWeek": "Tuesday",
+      "dateLabel": "March 3",
+      "readings": "Lev 26–27; Ps 112; Heb 10",
+      "summary": "God sets before Israel blessings for obedience and curses for rebellion, yet remembers His covenant. Psalm 112 praises the righteous who fear the LORD. Hebrews 10 points to Christ’s perfect sacrifice and urges us to hold fast our hope.",
+      "keyVerseRef": "Hebrews 10:23 (NKJV)",
+      "keyVerseText": "Let us hold fast the confession of our hope without wavering, for He who promised is faithful."
+    },
+    {
+      "id": "w9d3",
+      "dayOfWeek": "Wednesday",
+      "dateLabel": "March 4",
+      "readings": "Num 1–2; Ps 64; Heb 11",
+      "summary": "Israel is counted and arranged around the tabernacle, with God at the center of their camp. Psalm 64 appeals to God for protection from the wicked. Hebrews 11 celebrates men and women of faith who trusted God’s promises even when they could not see the outcome.",
+      "keyVerseRef": "Hebrews 11:1 (NKJV)",
+      "keyVerseText": "Now faith is the substance of things hoped for, the evidence of things not seen."
+    },
+    {
+      "id": "w9d4",
+      "dayOfWeek": "Thursday",
+      "dateLabel": "March 5",
+      "readings": "Num 3–5; Heb 12",
+      "summary": "The Levites are set apart to serve and guard the tabernacle, and the camp is kept pure. Hebrews 12 calls us to run with endurance, fixing our eyes on Jesus and receiving the Father’s loving discipline.",
+      "keyVerseRef": "Hebrews 12:1–2 (NKJV)",
+      "keyVerseText": "Therefore we also, since we are surrounded by so great a cloud of witnesses, let us lay aside every weight, and the sin which so easily ensnares us, and let us run with endurance the race that is set before us, looking unto Jesus, the author and finisher of our faith."
+    },
+    {
+      "id": "w9d5",
+      "dayOfWeek": "Friday",
+      "dateLabel": "March 6",
+      "readings": "Num 6–7; Heb 13",
+      "summary": "The Nazirite vow and priestly blessing highlight a life set apart to God and His desire to put His name on His people. Offerings are brought for the altar’s dedication. Hebrews 13 calls believers to worshipful lives, trusting Jesus who never changes.",
+      "keyVerseRef": "Hebrews 13:20–21 (NKJV)",
+      "keyVerseText": "Now may the God of peace who brought up our Lord Jesus from the dead, that great Shepherd of the sheep, through the blood of the everlasting covenant, make you complete in every good work to do His will, working in you what is well pleasing in His sight, through Jesus Christ, to whom be glory forever and ever. Amen."
+    }
+  ]
+},
+{
+  "weekNumber": 10,
+  "weekLabel": "Week 10 — March 9–13",
+  "days": [
+    {
+      "id": "w10d1",
+      "dayOfWeek": "Monday",
+      "dateLabel": "March 9",
+      "readings": "Num 8–11; Col 1",
+      "summary": "The Levites are cleansed for service, Israel keeps the Passover, and God guides His people by cloud and fire. Complaints in the wilderness reveal unbelief, yet God still provides. Colossians 1 exalts Christ as supreme over creation and the head of the church.",
+      "keyVerseRef": "Colossians 1:13–14 (NKJV)",
+      "keyVerseText": "He has delivered us from the power of darkness and conveyed us into the kingdom of the Son of His love, in whom we have redemption through His blood, the forgiveness of sins."
+    },
+    {
+      "id": "w10d2",
+      "dayOfWeek": "Tuesday",
+      "dateLabel": "March 10",
+      "readings": "Num 12–14; Ps 28; Col 2",
+      "summary": "Miriam and Aaron oppose Moses and are corrected by God. The spies’ bad report leads Israel to rebel at the edge of the promised land. Psalm 28 cries out for mercy and strength. Colossians 2 proclaims the fullness of Christ and warns against deceptive substitutes.",
+      "keyVerseRef": "Colossians 2:9–10 (NKJV)",
+      "keyVerseText": "For in Him dwells all the fullness of the Godhead bodily; and you are complete in Him, who is the head of all principality and power."
+    },
+    {
+      "id": "w10d3",
+      "dayOfWeek": "Wednesday",
+      "dateLabel": "March 11",
+      "readings": "Num 15–18; Ps 113; Col 3",
+      "summary": "God reinforces His commands, judges rebellion in Korah’s uprising, and confirms Aaron’s priesthood. Psalm 113 praises the LORD who lifts the lowly. Colossians 3 calls believers to seek things above and live out the new life in Christ.",
+      "keyVerseRef": "Colossians 3:1–2 (NKJV)",
+      "keyVerseText": "If then you were raised with Christ, seek those things which are above, where Christ is, sitting at the right hand of God. Set your mind on things above, not on things on the earth."
+    },
+    {
+      "id": "w10d4",
+      "dayOfWeek": "Thursday",
+      "dateLabel": "March 12",
+      "readings": "Num 19–21; Col 4",
+      "summary": "The red heifer offering provides cleansing from death’s defilement. Moses fails to honor God at Meribah, and Israel looks to the bronze serpent for healing. God grants victories on the way. Colossians 4 exhorts believers to steadfast prayer and wise witness.",
+      "keyVerseRef": "Colossians 4:2 (NKJV)",
+      "keyVerseText": "Continue earnestly in prayer, being vigilant in it with thanksgiving."
+    },
+    {
+      "id": "w10d5",
+      "dayOfWeek": "Friday",
+      "dateLabel": "March 13",
+      "readings": "Num 22–25; Luke 1",
+      "summary": "Balak hires Balaam to curse Israel, but God turns the curse into blessing. Yet Israel falls into sin with Moab. Luke 1 shows God unfolding His plan of salvation through the births of John the Baptist and Jesus, the promised King.",
+      "keyVerseRef": "Luke 1:32–33 (NKJV)",
+      "keyVerseText": "He will be great, and will be called the Son of the Highest; and the Lord God will give Him the throne of His father David. And He will reign over the house of Jacob forever, and of His kingdom there will be no end."
+    }
+  ]
+},
+{
+  "weekNumber": 11,
+  "weekLabel": "Week 11 — March 16–20",
+  "days": [
+    {
+      "id": "w11d1",
+      "dayOfWeek": "Monday",
+      "dateLabel": "March 16",
+      "readings": "Num 26–29; Luke 2",
+      "summary": "Israel is numbered again and offerings are appointed as the people prepare for the promised land. In Luke 2, Jesus is born, presented in the temple, and recognized as God’s salvation for all peoples.",
+      "keyVerseRef": "Luke 2:11 (NKJV)",
+      "keyVerseText": "For there is born to you this day in the city of David a Savior, who is Christ the Lord."
+    },
+    {
+      "id": "w11d2",
+      "dayOfWeek": "Tuesday",
+      "dateLabel": "March 17",
+      "readings": "Num 30–33; Ps 35; Luke 3",
+      "summary": "God gives instructions about vows and recounts Israel’s journey from Egypt to the edge of Canaan. Psalm 35 cries out for justice. In Luke 3, John prepares the way and Jesus is baptized, affirmed by the Father and the Spirit.",
+      "keyVerseRef": "Luke 3:22 (NKJV)",
+      "keyVerseText": "And the Holy Spirit descended in bodily form like a dove upon Him, and a voice came from heaven which said, “You are My beloved Son; in You I am well pleased.”"
+    },
+    {
+      "id": "w11d3",
+      "dayOfWeek": "Wednesday",
+      "dateLabel": "March 18",
+      "readings": "Num 34–36; Luke 4",
+      "summary": "The boundaries of the land and cities of refuge are appointed, showing God’s concern for justice and inheritance. In Luke 4, Jesus overcomes temptation and begins His ministry, proclaiming good news and freedom.",
+      "keyVerseRef": "Luke 4:18 (NKJV)",
+      "keyVerseText": "“The Spirit of the LORD is upon Me, because He has anointed Me to preach the gospel to the poor; He has sent Me to heal the brokenhearted, to proclaim liberty to the captives and recovery of sight to the blind, to set at liberty those who are oppressed.”"
+    },
+    {
+      "id": "w11d4",
+      "dayOfWeek": "Thursday",
+      "dateLabel": "March 19",
+      "readings": "Deut 1–3; Ps 36; Luke 5",
+      "summary": "Moses reviews Israel’s history of failure and God’s faithfulness as they stand ready to enter the land. Psalm 36 contrasts human wickedness with God’s steadfast love. In Luke 5, Jesus calls disciples, heals, and forgives sins.",
+      "keyVerseRef": "Luke 5:10 (NKJV)",
+      "keyVerseText": "And Jesus said to Simon, “Do not be afraid. From now on you will catch men.”"
+    },
+    {
+      "id": "w11d5",
+      "dayOfWeek": "Friday",
+      "dateLabel": "March 20",
+      "readings": "Deut 4–5; Luke 6",
+      "summary": "God calls Israel to remember His mighty acts, obey His commands, and teach their children diligently. The Ten Commandments are reviewed. In Luke 6, Jesus teaches about true discipleship and a life built on His words.",
+      "keyVerseRef": "Luke 6:46 (NKJV)",
+      "keyVerseText": "“But why do you call Me ‘Lord, Lord,’ and not do the things which I say?”"
+    }
+  ]
+},
+{
+  "weekNumber": 12,
+  "weekLabel": "Week 12 — March 23–27",
+  "days": [
+    {
+      "id": "w12d1",
+      "dayOfWeek": "Monday",
+      "dateLabel": "March 23",
+      "readings": "Deut 6–9; Luke 7",
+      "summary": "Moses commands Israel to love the LORD wholeheartedly, remember His Word, and not forget Him in prosperity. In Luke 7, Jesus heals, raises the dead, and forgives a sinful woman who loves much.",
+      "keyVerseRef": "Deuteronomy 6:5 (NKJV)",
+      "keyVerseText": "You shall love the LORD your God with all your heart, with all your soul, and with all your strength."
+    },
+    {
+      "id": "w12d2",
+      "dayOfWeek": "Tuesday",
+      "dateLabel": "March 24",
+      "readings": "Deut 10–14; Ps 5; Luke 8",
+      "summary": "God calls Israel to fear Him, walk in His ways, and care for the vulnerable, living as a holy people. Psalm 5 cries out for guidance. In Luke 8, Jesus calms storms, casts out demons, and responds to personal faith.",
+      "keyVerseRef": "Deuteronomy 10:12 (NKJV)",
+      "keyVerseText": "And now, Israel, what does the LORD your God require of you, but to fear the LORD your God, to walk in all His ways and to love Him, to serve the LORD your God with all your heart and with all your soul."
+    },
+    {
+      "id": "w12d3",
+      "dayOfWeek": "Wednesday",
+      "dateLabel": "March 25",
+      "readings": "Deut 15–18; Ps 115; Luke 9",
+      "summary": "God instructs His people about generosity, release, and leadership, promising a coming Prophet like Moses. Psalm 115 contrasts lifeless idols with the living God. In Luke 9, Jesus calls His followers to deny themselves and take up their cross daily.",
+      "keyVerseRef": "Luke 9:23 (NKJV)",
+      "keyVerseText": "Then He said to them all, “If anyone desires to come after Me, let him deny himself, and take up his cross daily, and follow Me.”"
+    },
+    {
+      "id": "w12d4",
+      "dayOfWeek": "Thursday",
+      "dateLabel": "March 26",
+      "readings": "Deut 19–22; Ps 6; Luke 10",
+      "summary": "God provides laws for justice, protection of the innocent, and care in relationships. Psalm 6 is a cry for mercy in distress. In Luke 10, Jesus sends out the seventy and teaches the parable of the Good Samaritan, calling us to love our neighbor.",
+      "keyVerseRef": "Luke 10:27 (NKJV)",
+      "keyVerseText": "So he answered and said, “ ‘You shall love the LORD your God with all your heart, with all your soul, with all your strength, and with all your mind,’ and ‘your neighbor as yourself.’ ”"
+    },
+    {
+      "id": "w12d5",
+      "dayOfWeek": "Friday",
+      "dateLabel": "March 27",
+      "readings": "Deut 23–26; Luke 11",
+      "summary": "God gives instructions for holiness in community, worship, and offerings, including the confession of His saving work. In Luke 11, Jesus teaches on prayer and warns against hypocrisy and unbelief.",
+      "keyVerseRef": "Luke 11:9 (NKJV)",
+      "keyVerseText": "“So I say to you, ask, and it will be given to you; seek, and you will find; knock, and it will be opened to you.”"
+    }
+  ]
 }
 ]
 
